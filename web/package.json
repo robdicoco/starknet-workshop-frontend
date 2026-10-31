@@ -17,7 +17,7 @@
     "@starknet-react/chains": "^0.1.7",
     "@starknet-react/core": "^2.8.1",
     "get-starknet-core": "^3.3.0",
-    "next": "14.0.2",
+    "next": "15.5.28",
     "react": "^18",
     "react-dom": "^18",
     "starknet": "^5.24.3"
